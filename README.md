@@ -104,7 +104,3 @@ http://127.0.0.1:8000/docs
 * Token-based authentication
 * Rate limiting per user/session
 * Input validation
-
-## Author
-
-Developed as part of a backend developer task.
